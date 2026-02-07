@@ -34,7 +34,7 @@ This isn’t a drag-and-drop dashboard. Here's what I focused on:
 ## 🖼️ Dashboard Previews
 
 ### 🌟 Page 1 – Executive Overview
-![Page 1]([global-sales-intelligence-dashboard/assets/dashboard_page1.png](https://github.com/ahmed-wafi/global-sales-intelligence-dashboard/blob/main/02_assets/Global_Sales_Insights_pages-to-jpg-0001.jpg))
+![Page 1](https://github.com/ahmed-wafi/global-sales-intelligence-dashboard/blob/main/02_assets/Global_Sales_Insights_pages-to-jpg-0001.jpg).
 
 > Top products by revenue, total KPIs, and global country breakdowns.
 
