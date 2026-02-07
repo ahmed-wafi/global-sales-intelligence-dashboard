@@ -41,21 +41,21 @@ This isn’t a drag-and-drop dashboard. Here's what I focused on:
 ---
 
 ### 🏭 Page 2 – Manufacturer Performance
-![Page 2](assets/dashboard_page2.png)
+![Page 2](https://github.com/ahmed-wafi/global-sales-intelligence-dashboard/blob/main/02_assets/Global_Sales_Insights_pages-to-jpg-0002.jpg)
 
 > Comparison of revenue vs. units across key manufacturers. High-price/low-volume vs. high-volume/lower-margin players.
 
 ---
 
 ### 🗺️ Page 3 – Geographical Insights
-![Page 3](assets/dashboard_page3.png)
+![Page 3](https://github.com/ahmed-wafi/global-sales-intelligence-dashboard/blob/main/02_assets/Global_Sales_Insights_pages-to-jpg-0003.jpg)
 
 > Which countries and even **German federal states** are outperforming — with map visual and timeline trends.
 
 ---
 
 ### 📐 Data Model
-![Data Model](assets/data_model.png)
+![Data Model](https://github.com/ahmed-wafi/global-sales-intelligence-dashboard/blob/main/02_assets/data_model_Global_Sales_Insights.jpg)
 
 > Fully structured semantic model — fact table, dimensions, time table, optimized relationships and cleaned fields.
 
