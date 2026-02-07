@@ -1,3 +1,8 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Skills-blue)
+![DAX](https://img.shields.io/badge/DAX-Advanced-success)
+![Dataset](https://img.shields.io/badge/Dataset-Sample-yellow)
+
+
 # 🌍 Global Sales Intelligence Dashboard — A Real-World Analytics Case Study
 
 Welcome to one of the most complete Power BI projects I’ve built — not just a dashboard, but a full-stack showcase of data modeling, business storytelling, and actionable insight generation. This case study simulates a real-world sales dataset with over $2.9B in transactions, analyzing global performance across products, regions, and manufacturers.
